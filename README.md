@@ -62,14 +62,14 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Illu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Illu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/0xillu/0xillu/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/0xillu/0xillu/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/kv96t58x6c94zdmh18lwxh1tg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kv96t58x6c94zdmh18lwxh1tg&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
