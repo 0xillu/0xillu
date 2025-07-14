@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning more about Cloud Servers<br>🎯 Goals: To be a Senior DevOps<br>🎲 Fun fact: I have lots of unreleased projects bcos of my ADHD and never bother continuing it :D</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning more about Cloud Servers<br>🎯 Goals: To be a Senior DevOps<br>🎲 Fun fact: I complain about it but i enjoy solving it</p>
 
 ###
 
